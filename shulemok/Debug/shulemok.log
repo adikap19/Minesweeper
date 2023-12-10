@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\adika\source\repos\shulemok\shulemok\Source.c(40,6): warning C4101: 'size': unreferenced local variable
+C:\Users\adika\source\repos\shulemok\shulemok\Source.c(237,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  shulemok.vcxproj -> C:\Users\adika\source\repos\shulemok\Debug\shulemok.exe
